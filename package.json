@@ -1,0 +1,17 @@
+{
+  "name": "pixelmatic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pixelmatic-test": "cucumber-js pixelmatic"
+  },
+  "devDependencies": {
+    "chromedriver": "^92.0.4515",
+    "cucumber": "^6.0.5",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
